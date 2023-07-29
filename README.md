@@ -1,10 +1,14 @@
 ![Hi there, I'm Luis Abatti, PhD](banner.png)
 
+## Welcome 👋
+
 I'm a data scientist with a background in computational biology, possessing over 7 years of experience in data analysis, visualization, and pipeline development. Over the years, I've developed a deep understanding and skill set for transforming complex biological datasets into informative, actionable insights.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisabatti&hide=html&theme=radical)
 
 ## 🎯 About Me
 
-I hold a Ph.D. in Bioinformatics from the University of Toronto, where I developed my skilsl in  data processing, database querying, genomic data library curation, statistical model development, and data visualization. My strength lies in the ability to write pipelines to process and analyze genomic datasets, leading to the identification of crucial DNA regulatory elements and understanding the impact of DNA sequence on protein binding.
+I hold a Ph.D. in Bioinformatics from the University of Toronto, where I developed my skills in  data processing, database querying, genomic data library curation, statistical model development, and data visualization. My strength lies in the ability to write pipelines to process and analyze genomic datasets, leading to the identification of crucial DNA regulatory elements and understanding the impact of DNA sequence on protein binding.
 
 ## 💡 What I'm Currently Pursuing
 
