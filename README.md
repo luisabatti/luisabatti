@@ -40,6 +40,15 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=selexseq_pipeline&theme=radical" />
 </a>
 
+<br>
+
+<a href="https://github.com/luisabatti/TCGAquantify">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=TCGAquantify&theme=radical" />
+</a>
+<a href="https://github.com/luisabatti/covid_recovery">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=covid_recovery&theme=radical" />
+</a>
+
 
 
 <!--
