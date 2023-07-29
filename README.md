@@ -2,7 +2,7 @@
 
 ## Welcome 👋
 
-I'm a data scientist with a background in computational biology, possessing over 7 years of experience in data analysis, visualization, and pipeline development. Over the years, I've developed a deep understanding and skill set for transforming complex biological datasets into informative, actionable insights.
+I'm a scientist with a background in computational biology, possessing over 7 years of experience in data analysis, visualization, and pipeline development. Over the years, I've developed a deep understanding and skill set for transforming complex biological datasets into informative, actionable insights.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisabatti&hide=html&theme=radical)
 
