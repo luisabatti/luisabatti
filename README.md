@@ -30,7 +30,9 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 <a href="https://github.com/luisabatti/SNP2TFBS">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=SNP2TFBS&theme=radical" />
 </a>
-<p>
+
+<br>
+
 <a href="https://github.com/luisabatti/merge_fastq">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=merge_fastq&theme=radical" />
 </a>
