@@ -1,7 +1,5 @@
 ![Hi there, I'm Luis Abatti, PhD](banner.png)
 
-# Hi there 👋
-
 I'm a data scientist with a background in computational biology, possessing over 7 years of experience in data analysis, visualization, and pipeline development. Over the years, I've developed a deep understanding and skill set for transforming complex biological datasets into informative, actionable insights.
 
 ## 🎯 About Me
