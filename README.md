@@ -18,6 +18,7 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 - **Programming Languages:** R, Python, Bash
 - **Data Analysis:** Tidyverse, Pandas, Excel
 - **Data Visualization:** Seaborn, ggplot2, Plotly
+- **NGS Analysis:** RNA-seq, ATAC-seq, ChIP-seq, SELEX-seq
 - **Statistical Analysis:** ANOVA, t-test, PCA
 - **Database Manipulation:** PostgreSQL, MySQL
 - **Productivity Tools:** RStudio, Jupyter-Lab, Git
