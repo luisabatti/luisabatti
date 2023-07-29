@@ -2,15 +2,15 @@
 
 ## Welcome 👋
 
-I'm a scientist with a background in computational biology, possessing over 7 years of experience in data analysis, visualization, and pipeline development. Over the years, I've developed a deep understanding and skill set for transforming complex biological datasets into informative, actionable insights.
+I'm a scientist with a background in computational biology, possessing over 7 years of experience in data analysis, visualization, and pipeline development. Over the years, I've developed a deep interest in transforming complex biological datasets into informative, actionable insights.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisabatti&hide=html&theme=radical)
 
 ## 🎯 About Me
 
-I hold a Ph.D. in Bioinformatics from the University of Toronto, where I developed my skills in  data processing, database querying, genomic data library curation, statistical model development, and data visualization. My strength lies in the ability to write pipelines to process and analyze genomic datasets, leading to the identification of crucial DNA regulatory elements and understanding the impact of DNA sequence on protein binding.
+I hold a Ph.D. in Bioinformatics from the University of Toronto, where I developed my skills in data processing, database querying, genomic data library curation, statistical model development, and data visualization. My strength lies in the ability to write pipelines to process and analyze genomic datasets, leading to the identification of crucial DNA regulatory elements and understanding the impact of DNA sequence on protein binding.
 
-## 💡 What I'm Currently Pursuing
+## 💡 Current Endeavors
 
 I'm always on the lookout for new opportunities to utilize my analytical skills, contribute to data-driven decision-making processes, and add value through my data analysis and visualization prowess. I believe in the power of data and I'm committed to using it to drive meaningful decisions and create lasting impact.
 
@@ -25,11 +25,11 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me for collaborations, questions, or just to say hello!
+I'm always thrilled to connect, collaborate, and engage in meaningful conversations. Whether you have a question, a potential collaboration in mind, or you just want to say hello, don't hesitate to reach out!
 
 👉 [LinkedIn](https://www.linkedin.com/in/luisabatti/)
 
-Thank you for stopping by!
+Thanks for stopping by! I appreciate your time and interest.
 
 <!--
 ## 📊 Recent Projects
