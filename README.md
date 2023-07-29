@@ -4,7 +4,6 @@
 
 I'm a scientist with a background in computational biology, possessing over 7 years of experience in data analysis, visualization, and pipeline development. Over the years, I've developed a deep interest in transforming complex biological datasets into informative, actionable insights.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisabatti&hide=html&theme=radical)
 
 ## 🎯 About Me
 
@@ -22,6 +21,8 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 - **Statistical Analysis:** ANOVA, t-test, PCA
 - **Database Manipulation:** PostgreSQL, MySQL
 - **Productivity Tools:** RStudio, Jupyter-Lab, Git
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisabatti&hide=html&theme=radical)
 
 ## 📫 How to Reach Me
 
