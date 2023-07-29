@@ -24,9 +24,18 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 - **Productivity Tools:** RStudio, Jupyter-Lab, Git
 
 ## 📊 Recent Projects
-
-
-
+<a href="https://github.com/luisabatti/BAMquantify">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=BAMquantify&theme=radical" />
+</a>
+<a href="https://github.com/luisabatti/SNP2TFBS">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=SNP2TFBS&theme=radical" />
+</a>
+<a href="https://github.com/luisabatti/merge_fastq">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=merge_fastq&theme=radical" />
+</a>
+<a href="https://github.com/luisabatti/selexseq_pipeline">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=selexseq_pipeline&theme=radical" />
+</a>
 
 
 
