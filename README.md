@@ -23,6 +23,15 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 - **Database Manipulation:** PostgreSQL, MySQL
 - **Productivity Tools:** RStudio, Jupyter-Lab, Git
 
+## 📫 How to Reach Me
+
+Feel free to reach out to me for collaborations, questions, or just to say hello!
+
+👉 [LinkedIn](https://www.linkedin.com/in/luisabatti/)
+
+Thank you for stopping by!
+
+<!--
 ## 📊 Recent Projects
 <a href="https://github.com/luisabatti/BAMquantify">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=BAMquantify&theme=radical" />
@@ -48,7 +57,7 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 <a href="https://github.com/luisabatti/covid_recovery">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisabatti&repo=covid_recovery&theme=radical" />
 </a>
-
+-->
 
 
 <!--
