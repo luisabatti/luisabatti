@@ -23,7 +23,9 @@ I'm always on the lookout for new opportunities to utilize my analytical skills,
 - **Database Manipulation:** PostgreSQL, MySQL
 - **Productivity Tools:** RStudio, Jupyter-Lab, Git
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisabatti&hide=html&theme=radical)
+-->
 
 ## 📫 How to Reach Me
 
